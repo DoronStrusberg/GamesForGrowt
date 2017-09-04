@@ -49,7 +49,7 @@
             "showArrow": true,
             "contentAlign": "right",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-design-1024x768.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/play-stone-1744790-1920x1259.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -215,7 +215,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/play-stone-1744790-1400x918.jpg",
+              "src": "@PROJECT_PATH@/assets/images/chess-1215079-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": "",
