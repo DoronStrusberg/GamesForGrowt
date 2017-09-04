@@ -198,10 +198,10 @@
             "inverse": false,
             "showArrow": true,
             "imageSize": "45",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/soap-bubble-2000x1333.png",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/soap-bubble-2000x1333.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#2e2e2e",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -215,7 +215,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1623x1080.jpg",
+              "src": "@PROJECT_PATH@/assets/images/play-stone-1744790-1400x918.jpg",
               "link": "",
               "alt": "",
               "title": "",
