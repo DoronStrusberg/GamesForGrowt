@@ -139,7 +139,7 @@
           "_params": {
             "logo": false,
             "showBrand": true,
-            "hideButtons": false,
+            "hideButtons": true,
             "sticky": true,
             "collapsed": true,
             "transparent": true,
@@ -437,7 +437,7 @@
           "_params": {
             "logo": false,
             "showBrand": true,
-            "hideButtons": false,
+            "hideButtons": true,
             "sticky": true,
             "collapsed": true,
             "transparent": true,
@@ -553,7 +553,7 @@
           "_params": {
             "logo": false,
             "showBrand": true,
-            "hideButtons": false,
+            "hideButtons": true,
             "sticky": true,
             "collapsed": true,
             "transparent": true,
