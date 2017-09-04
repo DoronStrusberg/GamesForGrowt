@@ -48,10 +48,10 @@
             "showButtons": false,
             "showArrow": true,
             "contentAlign": "right",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled%20design-1024x768.png",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-design-1024x768.png",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#a07e49",
             "bgVideoRadio": false,
             "bgVideo": {
