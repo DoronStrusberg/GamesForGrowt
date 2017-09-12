@@ -703,6 +703,12 @@ h6,
 #header4-d .mbr-section-title {
   text-align: left;
 }
+#header4-d .btn {
+  font-size: 16px;
+}
+#header4-d .mbr-section-title SPAN {
+  font-size: 60px;
+}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }

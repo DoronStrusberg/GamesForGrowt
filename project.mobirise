@@ -64,7 +64,7 @@
             "overlayColor": "#000",
             "overlayOpacity": "0.3"
           },
-          "title": "ACHIEVING WITH GAMES FOR GROWTH<br>",
+          "title": "<span style=\"font-weight: normal;\">ACHIEVING WITH GAMES FOR GROWTH</span><br>",
           "text": "For coaches, teachers, trainers, tacilitators and all people who wish to lead themselves or others through a gameful environment.<br><br>Learn how to create a gameful learning experience for bringing people to their goals<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Join Our Meetups</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Take Our Course</a> ",
           "_tags": [
@@ -81,6 +81,12 @@
             },
             ".mbr-section-title": {
               "text-align": "left"
+            },
+            ".btn": {
+              "font-size": "16px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "60px"
             }
           }
         },
